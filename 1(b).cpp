@@ -1,6 +1,7 @@
 // b) удалить все символы ‘-‘ и удвоить все символы ‘&’;
 #include <stdio.h>
-int main(){
+int main()
+{
     int a;
     while (a != EOF && a != '.') 
     {
